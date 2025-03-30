@@ -65,10 +65,14 @@ If you need a complete exemple, rely on the official documentation. ^^
 ```
 
 Illustrations : ![alt text](resources/net-policy-some-node-selector.png)
+*credit kodekloud*
 
 ![alt text](resources/image-1.png)
+*credit kodekloud*
 
 ![first network polici](resources/image-2.png)
+*credit kodekloud*
+
 In this exemple, Ingress trafic is isolated 
 Egress is unaffected : the pod can make any Egress and will not be blocked
 

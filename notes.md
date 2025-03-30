@@ -6,6 +6,7 @@ In the official documentation, search for `Cheatsheet`
 That is a default service created by Kubernetes at launch.
 ```BASH
 kubectl get services
+
 ##### OUTPUT
 NAME         TYPE        CLUSTER-IP   EXTERNAL-IP   PORT(S)   AGE
 kubernetes   ClusterIP   10.43.0.1    <none>        443/TCP   12m
